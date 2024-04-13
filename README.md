@@ -64,18 +64,9 @@ This will compile and run the application, and you should see the output `Hello,
 
 ### Top-Level Statements
 
-Starting with C# 9.0, you can use top-level statements to simplify the code for simple console applications. Instead of defining a `Main` method, you can write the code directly in the file without a namespace or class declaration.
+Top-level statements allows you to write executable code directly at the root of a file, eliminating the need for wrapping your code in a class or method. This means you can create programs without the ceremony of a `Program` class and a `Main` method.
+
 
 ```csharp
 Console.WriteLine("Hello, World!");
 ```
-
-## Rider
-
-[Rider](https://www.jetbrains.com/rider/) is a cross-platform .NET IDE developed by JetBrains. It provides a comprehensive set of features for developing .NET applications, including C# code analysis, refactoring, and debugging.
-
-### Installation
-
-To install Rider, download the installer from the [official website](https://www.jetbrains.com/rider/download/) and follow the installation instructions.
-
-
