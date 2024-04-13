@@ -3,8 +3,10 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Language-CSharp-blue">
     <img src="https://img.shields.io/badge/Platform-.NET%20Core%20%7C%20.NET%20Framework-blue">
-    <img src="https://img.shields.io/badge/IDE-Rider-blue">
-    <img src="csharp-logo.png" alt="C# Logo" width="200" height="200">
+</p>
+
+<p align="center">
+       <img src="csharp-logo.png" alt="C# Logo" width="200" height="200">
 </p>
 
 
